@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chloe.
-- 🦾I'm doing the 18 months ML Engineering Challenge.
+- 🦾
 
 
 <!---
